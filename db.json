@@ -1,0 +1,42 @@
+{
+  "videos": [
+    {
+      "id": "f20f",
+      "titulo": "Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "imagen": "https://i3.ytimg.com/vi/MXPhyN5t0uQ/maxresdefault.jpg",
+      "enlace": "https://www.youtube.com/embed/MXPhyN5t0uQ",
+      "descripcion": "Conoce el funcionamiento de Flexbox jugando"
+    },
+    {
+      "id": "7e6d",
+      "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí | #aluramás",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://i3.ytimg.com/vi/3mDnrL8YVaA/maxresdefault.jpg",
+      "enlace": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "descripcion": "Funcionalidades de Chat GPT"
+    },
+    {
+      "id": "0496",
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "categoria": "BackEnd",
+      "imagen": "https://i3.ytimg.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+      "enlace": "https://www.youtube.com/embed/Z024LSCMqFk",
+      "descripcion": "Habilidades de un desarrollador Back-End"
+    },
+    {
+      "id": "7bb9",
+      "titulo": "Como utilizar el Display block, inline, inline-block #aluramá",
+      "imagen": "https://i3.ytimg.com/vi/AG2QssLpQzI/maxresdefault.jpg",
+      "enlace": "https://www.youtube.com/embed/AG2QssLpQzI",
+      "descripcion": "Aprende a utilizar los diferentes tipos de display"
+    },
+    {
+      "id": "1972",
+      "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí | #aluramás",
+      "categoria": "Innovación y Gestión",
+      "imagen": "https://i3.ytimg.com/vi/3mDnrL8YVaA/maxresdefault.jpg",
+      "enlace": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "descripcion": "Funcionalidades de Chat GPT"
+    }
+  ]
+}
